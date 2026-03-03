@@ -12,6 +12,6 @@ console.log(`${String(b)} -> ${typeof b}`);
 console.log(`${String(c)} -> ${typeof c}`);
 console.log(`${String(d)} -> ${typeof d}`);
 console.log(`${String(e)} -> ${typeof e}`);
-console.log(`[${String(f)}] -> ${typeof f}`); // we need to output the array with [], is there another way?
+console.log(`[${String(f)}] -> ${typeof f}`);
 console.log(`${String(g)} -> ${typeof g}`);
 console.log(`${String(h)} -> ${typeof h}`);
