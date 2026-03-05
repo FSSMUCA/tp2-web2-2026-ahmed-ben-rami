@@ -6,7 +6,6 @@ let reductionPourcentage = 10
 let estMembre = true
 let soldeCompte = 250
 
-// the other way to represent the output
 let sousTotal = prix * quantite;
 console.log(`Sous-total : ${sousTotal.toFixed(2)}`);
 
